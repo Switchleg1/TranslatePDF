@@ -1,0 +1,12 @@
+# working files (chunks, rebuilt pages, translation cache)
+work/
+
+# documents
+input/*.pdf
+output/*.pdf
+
+# local launcher
+pi_run.bat
+
+# python
+__pycache__/
